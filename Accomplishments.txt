@@ -1,0 +1,13 @@
+Microservices Orchestration & BFF: Engineered a Backend-for-Frontend (BFF) Orchestration service from scratch using Spring Boot; implemented logic to aggregate and synchronize responses from three downstream microservices, reducing frontend latency and improving data consistency.
+
+Event-Driven System Design: Architected a high-throughput Pub/Sub event-driven system to automate Vehicle Recall Targeting event.
+
+Cloud Observability & Automation: Designed a robust Observability Framework utilizing Micrometer for distributed tracing and Dynatrace SaaS for performance monitoring; developed automated incident response systems using Cloud Functions and Pub/Sub to trigger ServiceNow APIs based on real-time log analysis.
+
+API Architecture & Migration: Managed the large-scale migration of legacy APIs to a modern APIGEE architecture; coordinated technical integration and compatibility testing for 30+ downstream consumer applications to ensure zero-downtime transition.
+
+Full-Stack Integration: Led the integration of cloud-based Microfrontend (MFE) architectures into central service hubs, ensuring seamless integration of independent cloud based frontend modules.
+
+System Modernization: Facilitated the migration of core services to Spring Boot 3.0, leveraging the latest JVM enhancements and Jakarta EE dependencies to improve system security and runtime performance.
+
+Working on GCP services like Cloud Run, Cloud Funtions, PubSub, BigQuery, GCS etc. with terraform.
